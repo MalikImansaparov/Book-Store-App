@@ -1,7 +1,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Street workout is a creative form of exercise combining elements of gymnastics and parkour. The workout is suitable for almost anyone and can be done nearly anywhere. You can train using your own body weight or different structures. The key elements in Street Workout are handstands, pushups, dips, pullups, hanging, and combinations of these. 
-
+Books play the most important role in our life! Books help us to give the knowledge. We can read a book while relaxing, leisure time and they provide good source of knowledge
 ### Built With
 - React
 - Bootstrap
