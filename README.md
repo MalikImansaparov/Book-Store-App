@@ -22,7 +22,7 @@ $ git clone https://github.com/MalikImansaparov/Book-Spore-App-.git
 
 Navigate to the extracted folder
 ```sh 
-cd street-workout
+cd book-store-app
 ```
 
 Install the dependencies and modules
